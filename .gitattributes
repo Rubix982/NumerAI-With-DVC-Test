@@ -1,1 +1,2 @@
 numerai_code_downloaded_test filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
